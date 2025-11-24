@@ -10,17 +10,15 @@ Construisez votre propre hamburger en utilisant des fichiers texte pour chaque c
 
 
 
-\- 🥯 \*\*Pain haut\*\* : Pain brioché avec des graines de sésame sur le dessus.
+1\. 🥯 \*\*Pain haut\*\* : Pain brioché avec des graines de sésame sur le dessus.
 
-\- 🥬 \*\*Salade\*\* : Salade croquante et fraîche.
+2\. 🥬 \*\*Salade\*\* : Salade croquante et fraîche.
 
-\- 🍅 \*\*Tomate\*\* : Tranches de tomate bien mûre.
+3\. 🥩 \*\*Steak\*\* : Steak de bœuf grillé à la perfection.
 
-\- 🥩 \*\*Steak\*\* : Steak de bœuf grillé à la perfection.
+4\. 🧀 \*\*Fromage\*\* : Tranche de cheddar fondant.
 
-\- 🧀 \*\*Fromage\*\* : Tranche de cheddar fondant.
+5\. 🥓 \*\*Bacon\*\* : Tranche de bacon croustillante.
 
-\- 🥓 \*\*Bacon\*\* : Tranche de bacon croustillante.
-
-\- 🍞 \*\*Pain bas\*\* : Pain brioché du dessous.
+6\. 🍞 \*\*Pain bas\*\* : Pain brioché du dessous.
 
